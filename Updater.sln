@@ -5,6 +5,10 @@ VisualStudioVersion = 17.5.33530.505
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Updater", "Updater\Updater.csproj", "{886E7A03-CA4F-4A99-B9E1-776D4917DAD9}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FormExample", "FormExample\FormExample.csproj", "{58CD4000-3B40-44B3-8F4A-4B50B434DD19}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DllExample", "DllExample\DllExample.csproj", "{9D87D120-23E9-4773-B365-F22AED531EC0}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -15,6 +19,14 @@ Global
 		{886E7A03-CA4F-4A99-B9E1-776D4917DAD9}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{886E7A03-CA4F-4A99-B9E1-776D4917DAD9}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{886E7A03-CA4F-4A99-B9E1-776D4917DAD9}.Release|Any CPU.Build.0 = Release|Any CPU
+		{58CD4000-3B40-44B3-8F4A-4B50B434DD19}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{58CD4000-3B40-44B3-8F4A-4B50B434DD19}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{58CD4000-3B40-44B3-8F4A-4B50B434DD19}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{58CD4000-3B40-44B3-8F4A-4B50B434DD19}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9D87D120-23E9-4773-B365-F22AED531EC0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9D87D120-23E9-4773-B365-F22AED531EC0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9D87D120-23E9-4773-B365-F22AED531EC0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9D87D120-23E9-4773-B365-F22AED531EC0}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
